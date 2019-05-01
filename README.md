@@ -36,3 +36,7 @@ netlify init
 # optionally do a preview deploy: netlify deploy
 # or straight to prod: netlify deploy --prod
 ```
+
+If you have an existing Netlify instance you want this code to take over, use `netlify link` instead.
+
+You can check your login status with `netlify status`, and also check out the [browser extension](https://chrome.google.com/webstore/detail/netlify-browser-extension/dkhfpnphbcckigklfkaemnjdmghhcaoh?hl=en-US) and [menubar app](https://github.com/stefanjudis/netlify-menubar).
