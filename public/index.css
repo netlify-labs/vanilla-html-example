@@ -1,0 +1,16 @@
+pre {
+  margin: 0 auto;
+  padding: 10px;
+  background: lightcyan;
+  text-align: center;
+}
+.center {
+  text-align: center;
+  padding: 10px;
+}
+.center button {
+  border: 3px solid green;
+  background: white;
+  border-radius: 10px;
+  padding: 10px;
+}
